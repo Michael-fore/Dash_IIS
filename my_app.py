@@ -32,3 +32,5 @@ app2.layout = html.Div([
 			figure=px.scatter(df, 'Tako', 'Cats'))]
 	)
 	
+if __name__ == '__main__':
+	app2.run_server(debug=True)

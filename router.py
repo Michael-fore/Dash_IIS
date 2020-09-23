@@ -8,3 +8,5 @@ app = DispatcherMiddleware(base_app, {
     '/app1': app1.server,
     '/app2':  app1.server,
 })
+
+print(app)
