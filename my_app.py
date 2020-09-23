@@ -12,7 +12,7 @@ df = pd.DataFrame({'Tako':[1, 2],
 
 #dummy app 1
 app1 = Dash(__name__,
-			requests_pathname_prefix='/app1')
+			requests_pathname_prefix='/app1/')
 
 app1.layout = html.Div([
 	html.H1('App 1'),
@@ -23,7 +23,7 @@ app1.layout = html.Div([
 
 #dummy app 2
 app2 = Dash(__name__,
-			requests_pathname_prefix='/app2')
+			requests_pathname_prefix='/app2/')
 
 
 app2.layout = html.Div([
