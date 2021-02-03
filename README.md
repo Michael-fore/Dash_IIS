@@ -16,15 +16,13 @@ Reposity for a youtube tutorial on how to run a flask app in IIS.
 
 0. Clone this repo to wwwroot
 
-1. Create virtual environment
+1. Create virtual environment: `python -m pip install -r requirements.txt`
 
-2. Enable CGI for IIS
+2. Enable [CGI for IIS](https://docs.microsoft.com/en-us/iis/configuration/system.webserver/cgi)
 
-3. Install wfastcgi from pip
+3. Ensure proper file permissions 
 
-4. Ensure proper file permissions 
-
-5. Configure Web.config
+4. Configure Web.config
 
 Youtube Tutorial: 
 
