@@ -24,6 +24,8 @@ Reposity for a youtube tutorial on how to run a flask app in IIS.
 
 5. Configure Web.config
 
+6. Add application to iis
+
 Youtube Tutorial: 
 
 * Make sure the entire dash_iis folder is readable by IIS_IUSRS, or whichever group is running the IIS process
