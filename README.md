@@ -10,8 +10,6 @@ Reposity for a youtube tutorial on how to run multiple dash apps in IIS.
 
 This will run on a local venv and use a local wfastcgi.
 
-# Flask_IIS
-
 Reposity for a youtube tutorial on how to run a flask app in IIS.
 
 0. Clone this repo to wwwroot
