@@ -1,6 +1,6 @@
 # Contact
 
-[Add me on Linkedin](https://www.linkedin.com/in/michael-fore-11a46a58/), if you want any custom work done this is a good place to reach me.
+[Add me on Linkedin](https://www.linkedin.com/in/michael-fore-11a46a58/), if you want any custom work done or need extra help this is a good place to reach me.
 
 I don't use [Twitter](https://twitter.com/Wolfman_Brother) all that much, but here it is.
 
