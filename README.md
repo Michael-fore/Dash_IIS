@@ -14,6 +14,8 @@ Reposity for a youtube tutorial on how to run a flask app in IIS.
 
 0. Clone this repo to wwwroot
 
+0.5. Set the created repo as the current directory `cd dash_iis`
+
 1. Create virtual environment: `python -m venv venv`
 
 2. Install requirements: `"venv/Scripts/python.exe" -m pip install -r requirements.txt`
@@ -26,7 +28,7 @@ Reposity for a youtube tutorial on how to run a flask app in IIS.
 
 6. Add application to iis
 
-Youtube Tutorial: 
+Youtube Tutorial: https://www.youtube.com/watch?v=sgFTX-SVh20
 
 * Make sure the entire dash_iis folder is readable by IIS_IUSRS, or whichever group is running the IIS process
 
